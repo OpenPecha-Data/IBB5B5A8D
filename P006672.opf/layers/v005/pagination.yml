@@ -1,0 +1,18 @@
+id: 6b5594db7b9c463483a338929e2fa982
+annotation_type: pagination
+revision: '00001'
+annotations:
+- id: 54bebc2728e24791839ea957644e4dab
+  span:
+    start: 0
+    end: 750
+  page_index: 1a
+  page_info: null
+  reference: '28750001'
+- id: f96c3a7d5ca247dba5d0f9fbc4414706
+  span:
+    start: 755
+    end: 2146
+  page_index: 1b
+  page_info: null
+  reference: '28750002'
