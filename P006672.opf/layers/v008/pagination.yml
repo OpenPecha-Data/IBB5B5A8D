@@ -2,17 +2,17 @@ id: 83a1cfc0740041f5bd9e37afa271363d
 annotation_type: pagination
 revision: '00001'
 annotations:
-- id: b25e385b53da44f9b7919166578c5d7c
-  span:
-    start: 0
-    end: 754
-  page_index: 1a
-  page_info: null
-  reference: '28780001'
-- id: 3e52d7e38c004984a41af3d2a5202fdb
-  span:
-    start: 759
-    end: 2150
-  page_index: 1b
-  page_info: null
-  reference: '28780002'
+  b25e385b53da44f9b7919166578c5d7c:
+    page_index: 1a
+    page_info: null
+    reference: '28780001'
+    span:
+      start: 0
+      end: 754
+  3e52d7e38c004984a41af3d2a5202fdb:
+    page_index: 1b
+    page_info: null
+    reference: '28780002'
+    span:
+      start: 759
+      end: 2150
