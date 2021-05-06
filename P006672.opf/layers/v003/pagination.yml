@@ -3,16 +3,14 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   6abfb0393bb547acbf0d9a879e815fe8:
-    page_index: 1a
-    page_info: null
-    reference: '28730001'
+    imgnum: 1
+    reference: 28730001.tif
     span:
       start: 0
       end: 751
   66bd355100e04a9aa8e41275c0e11060:
-    page_index: 1b
-    page_info: null
-    reference: '28730002'
+    imgnum: 2
+    reference: 28730002.tif
     span:
       start: 756
       end: 2147
