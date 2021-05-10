@@ -1,14 +1,14 @@
-id: b3f0425055b74256aa2abfbdcf675365
-annotation_type: pagination
+id: 09c027e98473498588fa78e745b2f5b8
+annotation_type: Pagination
 revision: '00001'
 annotations:
-  c28b4c2d2b004d518c3d0ba5f345847a:
+  956f6c8b31cd44f88c1a902e5d911ca7:
     imgnum: 1
     reference: 28860001.tif
     span:
       start: 0
       end: 761
-  ddafef7e36d647c2ab31f1ba8e04dc41:
+  b7d8c1b11f9346a8a7437ef86f677ae6:
     imgnum: 2
     reference: 28860002.tif
     span:
